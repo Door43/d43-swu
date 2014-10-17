@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swu:home|Door43 (swu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swu|d43-swu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swu/archive/master.zip|d43-swu.zip]]
+
+**Recent Changes**
+{{changes>ns = swu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swu|Ethnologue data]]
+
